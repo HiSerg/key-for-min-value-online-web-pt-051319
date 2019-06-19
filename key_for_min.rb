@@ -9,4 +9,5 @@ name_a = nil
       name_a = name
     end
   end
+  name_a
 end
