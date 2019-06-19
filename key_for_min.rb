@@ -6,6 +6,6 @@ num = 0
   name_hash.each do |name, number|
     if number == num || number < num
       num = number 
-      
+      name
   end 
 end
