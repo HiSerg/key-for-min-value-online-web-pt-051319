@@ -8,7 +8,6 @@ name_a = nil
     if num == 0 || number < num
       num = number
       name_a = name
-    
     end
   end
   name_a
