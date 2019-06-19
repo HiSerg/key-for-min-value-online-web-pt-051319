@@ -10,5 +10,4 @@ name_a = nil
       name_a
     end
   end
-  name_a
 end
