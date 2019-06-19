@@ -10,4 +10,5 @@ name_a = ""
       name_a = name
     end
   end 
+  name_a
 end
