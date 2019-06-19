@@ -7,5 +7,6 @@ num = 0
     if number == num || number < num
       num = number 
       name
+    end 
   end 
 end
