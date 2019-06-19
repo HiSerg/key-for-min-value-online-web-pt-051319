@@ -8,7 +8,6 @@ name_a = ""
     if number == num || number < num
       num = number
       name_a = name
-    end 
-    name_a
+    end
   end 
 end
