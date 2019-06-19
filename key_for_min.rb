@@ -6,8 +6,7 @@ num = 0
 name_a = nil
   name_hash.each do |name, number|
     if number < num 
-      name_a = name
-      name_a
+    
     end
   end
 end
